@@ -48,6 +48,7 @@
 
 #### 👨‍🏫 Популяризация:
 [![Habr](https://img.shields.io/badge/-Habr-333?style=flat&logo=rss&logoColor=orange)](https://habr.com/ru/companies/sravni/articles/776172/)
+[![Habr](https://img.shields.io/badge/-Habr-333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTAgMHYxNmgxNlYwSDB6IiBzdHlsZT0iZmlsbDojNjI5ZmJjO3N0cm9rZTpub25lIi8+PHBhdGggZD0ibTQgMiAxIDMtMi0xdjZjMyAwIDIgMSAyIDRsMi0zIDQgMi0xLTMgNC0yaC0zbDItMlYySDR6IiBzdHlsZT0iZmlsbDojZmZmO3N0cm9rZTpub25lIi8+PHBhdGggZD0ibTkgMyAxIDEtMS0xeiIgc3R5bGU9ImZpbGw6IzYyOWZiYztzdHJva2U6bm9uZSIvPjwvc3ZnPg==)](https://habr.com/ru/companies/sravni/articles/776172/)
 
 ---
 
