@@ -13,7 +13,7 @@
 ### 📈 Статистика
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Sinhraphathatron&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sinhraphathatron&theme=radical&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ---
 
@@ -21,6 +21,8 @@
 <!--
 ### 📫 Связаться со мной:
 [Telegram](https://t.me/@Sinhraphathatron) | [Email](mailto:твой_почта@example.com)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sinhraphathatron&theme=radical&hide_border=true)
 
 **Sinhraphathatron/Sinhraphathatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
