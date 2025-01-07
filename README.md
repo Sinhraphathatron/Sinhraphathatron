@@ -39,7 +39,7 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-333?style=flat&logo=apache-kafka&logoColor=231F20)
 
 #### 🧪 QA-инструменты и тестирование:
-![Allure](https://img.shields.io/badge/-Allure-333?style=flat&logo=allure)
+![Allure](https://img.shields.io/badge/-Allure-333?style=flat&logo=https://docs.qameta.io/assets/favicon.c361cdde.svg)
 ![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman&logoColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/-Swagger-333?style=flat&logo=swagger)
 ![Selenium](https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium)
