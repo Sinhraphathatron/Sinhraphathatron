@@ -14,6 +14,8 @@
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Sinhraphathatron&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sinhraphathatron&theme=radical&hide_border=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sinhraphathatron&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 
