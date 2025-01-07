@@ -47,7 +47,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-333?style=flat&logo=jira&logoColor=blue)
 
 #### 👨‍🏫 Популяризация:
-[![Habr%20Article](https://img.shields.io/badge/-Habr%20Article-333?style=flat)](https://habr.com/ru/companies/sravni/articles/776172/)
+[![Habr](https://img.shields.io/badge/-Habr%20Article-333?style=flat&logo=rss&logoColor=orange)](https://habr.com/ru/companies/sravni/articles/776172/)
 
 ---
 
